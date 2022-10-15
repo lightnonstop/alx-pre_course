@@ -1,4 +1,4 @@
-Git and github project tasks
+Git and github project tasks:
 0. Create and setup your Git and GitHub account 
 1. Repo-session - Create a new directory called 0x01-git in your alx-pre_course repo. 
 2. Coding fury road - For the moment we have an empty project directory containing only a README.md. It’s time to code!
